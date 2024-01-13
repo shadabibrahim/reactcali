@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactcali/static/css/main.f083cfea.css",
+    "main.js": "/reactcali/static/js/main.b08101b5.js",
+    "index.html": "/reactcali/index.html",
+    "main.f083cfea.css.map": "/reactcali/static/css/main.f083cfea.css.map",
+    "main.b08101b5.js.map": "/reactcali/static/js/main.b08101b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f083cfea.css",
+    "static/js/main.b08101b5.js"
+  ]
+}
